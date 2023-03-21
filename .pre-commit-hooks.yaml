@@ -2,4 +2,4 @@
   name: protofmt
   entry: protofmt -w
   language: golang
-
+  types: [file, proto]
